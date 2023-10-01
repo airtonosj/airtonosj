@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Airton! 😁
+## Prazer, eu sou o Airton, e este é meu perfil! 😁
 
  <div>
    <a href="https://github.com/airtonosj">
