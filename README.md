@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/airtonosj">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airtonosj&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonosj&layout=compact"/>
 </div>
     
 <div style="display: inline_block"><br>
